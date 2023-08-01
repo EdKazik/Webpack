@@ -1,4 +1,8 @@
 node_modules/
+.vscode/
+build/
+.idea
+*.log
 
 # Package Files #
 *.jar
